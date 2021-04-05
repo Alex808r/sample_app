@@ -1,5 +1,6 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
 /* mixins, variables, etc. */
 $gray-medium-light: #eaeaea;
 /* universal */
@@ -55,7 +56,6 @@ p {
     text-decoration: none;
   }
 }
-
 /* footer */
 footer {
   margin-top: 45px;
